@@ -1,0 +1,8 @@
+/.deps
+/.dirstamp
+/config.h
+/pcre2.h
+/pcre2_chartables.c
+/stamp-h1
+/*.gcno
+/*.gcda
